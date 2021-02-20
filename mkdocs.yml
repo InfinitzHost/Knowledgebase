@@ -7,3 +7,4 @@ theme:
     accent: red
   generator: false
 copyright: Copyright &copy; 2021 InfinitzHost
+repo_url: https://github.com/fatgrizzly/readthedocs
