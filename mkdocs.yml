@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: InfinitzHost Knowledgebase
 theme:
   name: material
   palette:
@@ -7,4 +7,6 @@ theme:
     accent: red
   generator: false
 copyright: Copyright &copy; 2021 InfinitzHost
-repo_url: https://github.com/fatgrizzly/readthedocs
+repo_url: https://github.com/InfinitzHost/Knowledgebase
+markdown_extensions:
+  - admonition

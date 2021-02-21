@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Getting Started
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Pointing your domain to our nameservers
 
-## Commands
+What Is a Name Server? Name servers help connect URLs with the IP address of web servers. Name servers are an important part of the Domain Name System (DNS), which many people call the “phone book of the Internet”.
+How to change it?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Step – 1: Go to Domain Management.
 
-## Project layout
+Step – 2: Scroll Down to Name servers.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Step – 3: Enter the name servers for free hosting, set the Name Servers as dns3.infinitzhost.com and dns4.infinitzhost.com. For Premium hosting, set the name servers as dns1.infinitzhost.com and dns2.infinitzhost.com.
+
+Step – 4: Wait for propagation. DNS propagation can take up to a day but It usually takes 20-30 minutes but yours may propagate faster.
+
+!!! tip
+    Use [WhatsmyDNS](https://whatsmydns.org) to check DNS propagation.
