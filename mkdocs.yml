@@ -3,8 +3,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: cyan
-    accent: red
+    primary: default
+    accent: cyan
   generator: false
 copyright: Copyright &copy; 2021 InfinitzHost
 repo_url: https://github.com/InfinitzHost/Knowledgebase
