@@ -10,3 +10,4 @@ copyright: Copyright &copy; 2021 InfinitzHost
 repo_url: https://github.com/InfinitzHost/Knowledgebase
 markdown_extensions:
   - admonition
+custom_dir: overrides
