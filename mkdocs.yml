@@ -25,3 +25,4 @@ repo_url: https://github.com/InfinitzHost/Knowledgebase
 markdown_extensions:
   - admonition
 custom_dir: overrides
+logo: https://ik.imagekit.io/0ub28tiibq1/161131655617938495_Pi7zlf_kix.png
