@@ -16,7 +16,8 @@ site_name: InfinitzHost Knowledgebase
 theme:
   name: material
   custom_dir: overrides
-  logo: https://ik.imagekit.io/0ub28tiibq1/161131655617938495_Pi7zlf_kix.png
+  logo: https://avatars.githubusercontent.com/u/76196261?s=88&v=4
+  favicon: https://avatars.githubusercontent.com/u/76196261?s=88&v=4
   palette:
     scheme: slate
     primary: default
