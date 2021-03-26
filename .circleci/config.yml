@@ -27,7 +27,7 @@ jobs:
       - run: git submodule sync
       - run: git submodule update --init
       - run: pip install --user tox
-      - run: scripts/circle/install_node.sh
+      - run: wget https://raw.githubusercontent.com/InfinitzHost/Knowledgebase/master/scripts/circle/install_node.sh | sh
       - run:
           name: Add node to the path
           command: |
