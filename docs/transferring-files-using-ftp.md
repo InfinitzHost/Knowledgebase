@@ -31,7 +31,7 @@ Next, you need to download and install an FTP client. There are many ftp clients
 1. Open FileZilla
 2. Open File > Site Manager
 3. Click New Site
-4. In Host, type: **ftp.example.com**, where *example.com* is your website's domain
+4. In Host, type: **sv1.infinitzhost.com** (for PremiumHosting users) or **sv2.infinitzhost.com** (for FreeHosting users).
 5. From the Logontype dropdown select "**Normal**"
 6. In User, type your ftp account username (eg. *admin@example.com*)
 7. In Password, type the password
