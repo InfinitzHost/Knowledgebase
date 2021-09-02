@@ -21,7 +21,7 @@ theme:
   palette:
     scheme: slate
     primary: default
-    accent: cyan
+    accent: deep purple
   generator: false
 copyright: Copyright &copy; 2021 InfinitzHost
 repo_url: https://github.com/InfinitzHost/Knowledgebase
