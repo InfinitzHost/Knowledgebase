@@ -4,7 +4,7 @@
 
 **Difficulty**: Easy to Medium
 
-Is your account's cPanel File Manager inaccessible? Does the File Manager doesn't satifies your needs? Or you want ease the transfer process of the files from your device to the server? 
+Is your account's DirectAdmin File Manager inaccessible? Does the File Manager doesn't satifies your needs? Or you want ease the transfer process of the files from your device to the server? 
 
 Then, prepare yourself. In this article, we will be using the FTP method in uploading files as well as managing files in your website.
  
