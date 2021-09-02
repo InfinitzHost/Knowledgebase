@@ -19,8 +19,8 @@ theme:
   favicon: https://avatars.githubusercontent.com/u/76196261?s=88&v=4
   palette:
     scheme: slate
-    primary: default
-    accent: deep purple
+    primary: deep purple
+    accent: cyan
   generator: false
 copyright: Copyright &copy; 2021 InfinitzHost
 repo_url: https://github.com/InfinitzHost/Knowledgebase
