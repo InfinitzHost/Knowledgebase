@@ -16,11 +16,6 @@ As you may have noticed, Softaculous on free server doesn't have WordPress. Then
 12. Go back to Online file manager, rename *wp-config-sample.php* to *wp-config.php*, and edit it.
 13. Insert your database credentials to *MySQL Settings* section.
 14. Go to *Autentication unique keys and salts* section, open new tab, open [this link](https://api.wordpress.org/secret-key/1.1/salt/), copy all of it's contents, and paste it to that section, replacing default values.
-15. Paste this:
-~~~
-define('FS_METHOD', 'direct');
-~~~
-to the bottom of *wp-config.php* file, to make sure you're not asked for FTP credentials everytime you're updating WordPress or installing plugin/theme.
-
+15. Paste this `define('FS_METHOD', 'direct');` to the bottom of *wp-config.php* file, to make sure you're not asked for FTP credentials everytime you're updating WordPress or installing plugin/theme.
 16. Save and close the file, and close online file manager.
 17. Open your website and complete installation through web interface.
