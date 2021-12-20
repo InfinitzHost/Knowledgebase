@@ -21,5 +21,6 @@ As you may have noticed, Softaculous on free server doesn't have WordPress. Then
 define('FS_METHOD', 'direct');
 ~~~
 to the bottom of *wp-config.php* file, to make sure you're not asked for FTP credentials everytime you're updating WordPress or installing plugin/theme.
+
 16. Save and close the file, and close online file manager.
 17. Open your website and complete installation through web interface.
