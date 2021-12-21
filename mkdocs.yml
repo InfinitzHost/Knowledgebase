@@ -1,3 +1,8 @@
+# Copyright © 2021 InfinitzHost
+#
+# Licensed under the MIT License;
+# you may not use this file except in compliance with the License.
+
 site_name: InfinitzHost Knowledgebase
 theme:
   name: material
